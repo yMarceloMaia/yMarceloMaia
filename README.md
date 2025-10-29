@@ -1,6 +1,18 @@
 
 ### Hi there 👋
 
+### 👋 Olá, eu sou o Marcelo Maia  
+
+Sou **Desenvolvedor Full Stack Pleno**, com foco em **React** e **NestJS**.  
+Atualmente, estou finalizando minha graduação em **Ciência da Computação** e atuo no desenvolvimento de aplicações web completas — do front-end ao back-end.  
+
+💡 **Tecnologias e ferramentas que uso no dia a dia:**  
+- **Front-end:** React, React Native, TypeScript, JavaScript, HTML, CSS  
+- **Back-end:** Node.js, NestJS, Jest, SQL  
+- **Outros:** Git, REST APIs, Clean Code, boas práticas e testes automatizados  
+
+🚀 Sempre buscando aprender novas tecnologias e aprimorar meu código.  
+
 ### Estatísticas
 
 <p align="justify">
