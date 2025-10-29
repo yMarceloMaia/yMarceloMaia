@@ -13,6 +13,19 @@ Atualmente, estou finalizando minha graduação em **Ciência da Computação** 
 
 🚀 Sempre buscando aprender novas tecnologias e aprimorar meu código.  
 
+I’m a Full Stack Developer, focused on React and NestJS.
+I’m currently finishing my Bachelor’s degree in Computer Science and working on the development of complete web applications — from front-end to back-end.
+
+💡 Technologies and tools I use daily:
+
+Front-end: React, React Native, TypeScript, JavaScript, HTML, CSS
+
+Back-end: Node.js, NestJS, Jest, SQL
+
+Others: Git, REST APIs, Clean Code, best practices, and automated testing
+
+🚀 Always eager to learn new technologies and improve my code.
+
 ### Estatísticas
 
 <p align="justify">
